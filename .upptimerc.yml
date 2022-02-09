@@ -9,8 +9,8 @@ sites:
     url: https://rufino.aion.com.ar
   - name: AION
     url: https://aion.com.ar
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  #- name: Test Broken Site
+  #  url: https://thissitedoesnotexist.koj.co
 
 assignees:
     - rodrigomorales77
