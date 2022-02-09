@@ -9,7 +9,7 @@ sites:
     url: https://cespal.aion.com.ar
   - name: RUFINO
     url: https://rufino.aion.com.ar
-
+    
 assignees:
   - rodrigomorales77
 
@@ -27,7 +27,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-# © 2022 GitHub, Inc.Terms Privacy Security Status DocsContact GitHub Pricing API Training Blog About
