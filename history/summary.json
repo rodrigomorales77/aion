@@ -1,23 +1,21 @@
 [
   {
-    "name": "AION - Test",
-    "url": "https://aiondown.com.ar",
-    "icon": "https://favicons.githubusercontent.com/aiondown.com.ar",
-    "slug": "aion-test",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-09": 0
-    }
+    "name": "AION",
+    "url": "https://aion.com.ar",
+    "icon": "https://favicons.githubusercontent.com/aion.com.ar",
+    "slug": "aion",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 866,
+    "timeDay": 866,
+    "timeWeek": 866,
+    "timeMonth": 866,
+    "timeYear": 866,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CESPAL",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1794,
-    "timeDay": 1794,
-    "timeWeek": 1794,
-    "timeMonth": 1794,
-    "timeYear": 1794,
+    "time": 1940,
+    "timeDay": 1940,
+    "timeWeek": 1940,
+    "timeMonth": 1940,
+    "timeYear": 1940,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 1822,
-    "timeWeek": 1822,
-    "timeMonth": 1822,
-    "timeYear": 1822,
+    "time": 1922,
+    "timeDay": 1922,
+    "timeWeek": 1922,
+    "timeMonth": 1922,
+    "timeYear": 1922,
     "dailyMinutesDown": {}
   }
 ]
